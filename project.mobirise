@@ -566,11 +566,15 @@
               "text": "<p><b>Rev. Norman T. Davis, Pastor</b></p><p>Office - (919) 362 - 7057 &nbsp;</p><p>Cell - (919) 607 - 4504&nbsp;</p>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/candle-1400x908.png",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
                 }
               },
               "authorName": "Abanoub S.",
