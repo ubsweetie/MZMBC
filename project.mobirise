@@ -274,10 +274,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -319,11 +319,11 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -359,10 +359,16 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#ffffff"
             },
             ".mbr-section-text": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#000000"
+            },
+            ".mbr-section-text B": {
+              "text-align": "left",
+              "color": "#ffffff"
             }
           },
           "_anchor": "header2-1",
@@ -370,7 +376,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2797.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2663.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -390,7 +396,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/candle-1-1400x908.png",
+              "src": "@PROJECT_PATH@/assets/images/candle-1400x908.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -409,7 +415,7 @@
             }
           },
           "title": "Mount Zoar Missionary Baptist Church",
-          "text": "“Teach me good judgment and knowledge: for I have believed thy commandments. “<br>Psalms 119:66<br>",
+          "text": "<i><b>\"I was glad when they said unto me, Let us go into the house of the Lord.\"<br>Psalm 122</b></i><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -494,13 +500,17 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/scholarships-600x391.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title3": "Scholarship Program",
+          "title3": "<br><br><br><span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Scholarship Program</span><br>",
           "subtitle3": "",
           "caption3": "The Mt. Zoar Missionary Baptist Church Annual Scholarship Program will be held on Sunday August 13, 2017 at 3pm. ",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a>",
